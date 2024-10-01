@@ -7,7 +7,7 @@
 
 ###### Set working directory ######
 
-setwd("/home/bio.aau.dk/vm82rp/MASPOT/GS")
+setwd("/MASPOT/GS")
 rm(list = ls())
 
 ###### Run scripts and save errors in log and closing open connections to save memory ######
