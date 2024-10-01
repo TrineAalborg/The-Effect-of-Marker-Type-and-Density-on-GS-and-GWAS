@@ -6,7 +6,7 @@
 # variants: ssnp_0
 
 ###### Set working directory ######
-setwd("/home/bio.aau.dk/vm82rp/MASPOT/GS")
+setwd("/MASPOT/GS")
 rm(list = ls())
 
 ###### Load data elemets ######
