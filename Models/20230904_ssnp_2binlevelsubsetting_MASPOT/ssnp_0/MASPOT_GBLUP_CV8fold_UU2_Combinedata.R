@@ -8,7 +8,7 @@
 # Model: GBLUP
 
 ###### Set working directory ######
-setwd("/home/bio.aau.dk/vm82rp/MASPOT/GS")
+setwd("/MASPOT/GS")
 
 library(BGLR)
 library(ggplot2)
