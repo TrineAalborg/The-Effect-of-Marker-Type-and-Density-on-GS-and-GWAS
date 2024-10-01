@@ -7,7 +7,7 @@
 
 ###### Set working directory ######
 
-setwd("MASPOT/GS")
+setwd("/MASPOT/GS")
 rm(list = ls())
 
 
